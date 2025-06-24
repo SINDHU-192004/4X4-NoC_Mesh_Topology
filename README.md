@@ -101,8 +101,4 @@ This project is a part of the academic curriculum in **Computer Architecture / A
 > This simulation provides a practical learning experience in chip-level network communication, widely used in today’s multicore processors and embedded systems.
 
 
-## Acknowledgements
-
-This simulation was developed under the guidance of faculty in the **Department of Electronics and Communication / Computer Engineering** and is inspired by research and coursework related to Network-on-Chip systems.
-
 
